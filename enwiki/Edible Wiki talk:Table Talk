@@ -1,0 +1,36 @@
+<!-- copied from User talk:-Vuton-/Table Talk -->
+__NOTOC__
+<div style="border:1px solid #E0E0E0;-webkit-border-radius:10px 10px 0 0;border-radius:10px 10px 0 0;box-shadow: 0 2px 3px rgba(34,25,25,0.3);margin:0px 0px 20px 3px;padding:0px;background-color:#FFFFFF;width:99%;overflow:auto;">
+<div style="height:20px;padding:7px 20px;position:relative;background-color:#F7F7F7;font-size:1.5em;text-align:center;border-bottom:1px solid rgb(224, 224, 224);">'''Welcome to the Dinner Table! Let Table Talk commence!'''
+</div>
+{|
+<div style="text-align:center">If you do not think a discussion is done, you can move it to [[{{FULLPAGENAME}}/Not Done]].</div>
+<div style="text-align:center">
+<inputbox>
+type=commenttitle
+page={{FULLPAGENAME}}
+buttonlabel=Click this button to leave a message!
+hidden=yes!
+</inputbox>
+</div>
+----
+|-
+| style="font-size: 140%; padding: 0.25em 0.9em;" | <div><center>'''Remember your manners'''</center></div>
+|-
+| <p style="text-align: center;">'''We recommend that before you create your question, you read these tips to editing on the Edible Scratch Wiki.'''</p>
+*Sign your posts with four tildes (<nowiki>~~~~</nowiki>) after your post.
+*To do various text formatting, follow the following rules, rather than using any other text-editing methods:
+**Make text '''bold''' with <nowiki>'''text'''</nowiki>.
+**Make text ''italics'' with <nowiki>''text''</nowiki>.
+**Make text '''''bold and italics''''' with <nowiki>'''''text'''''</nowiki>.
+**Make a [http://scratch.mit.edu link to a page outside of this wiki] with <nowiki>[http://www.example.com link text] or {{plain link|1=http://www.example.com|2=link text}} if you don't want the </nowiki>[[File:Link icon.png]] symbol to appear (remember http:// prefix).
+**Make a [[Scratch Wiki|link to an article on this wiki]] with <nowiki>[[Page name]]</nowiki> or <nowiki>[[Page name|Link text]]</nowiki>.
+**Make a [[Wikipedia:Scratch (programming language)|link to a Wikipedia article]] with <nowiki>[[Wikipedia:Page name]] or [[Wikipedia:Page name|Link text]]</nowiki>.
+**Indent a paragraph by putting a colon (:) before it.
+**For more, see [[Help:Formatting|the help page on formatting]].
+*Put new text under old text.
+*Always remember to be polite and respectful, [[Scratch Wiki:Assume Good Faith|assume good faith]], and be welcoming, while following the [http://scratch.mit.edu/community_guidelines Scratch Community Guidelines].
+<!-- *When creating a new post, mark it as {{not done}} by putting {{t|not done}} at the top. Once the conversation has been resolved, replace it with {{t|done}} (producing {{done}}). -->
+|-
+|<center> __TOC__</center>
+|}</div>

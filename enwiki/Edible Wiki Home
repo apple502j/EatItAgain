@@ -1,0 +1,24 @@
+<!--　copied from User:Drunken Sailor/Edible Wiki Homepage -->
+<div style="height:945px"><!-- Header -->
+<table align=center style="text-align:center;margin-bottom:8px;" cellpadding=0>
+<tr><td rowspan=2 style="padding-right:25px;">[[File:Taco.png]]</td><td style="font-size:150%; font-weight:bold;">Edible Scratch Wiki</td><td rowspan=2 style="padding-left:25px;">[[File:Donut.png|100px]]</td></tr>
+<tr><td><span style="font-size:100%">Made by Foodies, for Foodies.</span></td></tr></table>
+
+
+<div><!-- Scratch News -->
+{{Scratchwikiframe
+|What's cooking?|{{:Scratch Wiki Home/News}}
+|56%|450px|left|20px|Scratch Wiki Home/News}}
+{{Scratchwikiframe
+|Menu|{{:Scratch Wiki:Table of Contents}}
+|41%|335px|right|20px|Scratch Wiki:Table of Contents}}
+
+<!-- Featured Images -->
+{{Scratchwikiframe
+|Featured Images|{{/Featured Images}}
+|41%|555px|right|20px|Scratch Wiki Home/Featured Images}}
+
+<!-- Featured Article -->
+{{Scratchwikiframe
+|This Month's Special|{{/Featured Article}}
+|56%|175px|left|20px|/Featured Article}}
